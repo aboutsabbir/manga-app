@@ -1,0 +1,1 @@
+Contains the updated lists of mangas to keep track of the latest releases.
